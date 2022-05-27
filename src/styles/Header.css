@@ -8,8 +8,7 @@
 
 .header__left {
 	display: flex;
-	gap: 20px;
-	margin-left: 10px;
+	margin-left: 20px;
 }
 
 .header__right > img {

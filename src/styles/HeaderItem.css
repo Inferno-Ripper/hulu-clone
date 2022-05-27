@@ -7,7 +7,7 @@
 }
 
 .headerItem > .headerItem__icon {
-	height: 33px;
+	height: 23px;
 }
 
 .headerItem > p {
@@ -17,6 +17,10 @@
 }
 
 @media (min-width: 640px) {
+	.headerItem > .headerItem__icon {
+		height: 33px;
+	}
+
 	.headerItem:hover > p {
 		opacity: 100;
 	}
